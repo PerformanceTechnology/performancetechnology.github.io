@@ -26,7 +26,7 @@ Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
 ### Course Description
 
-Quarantine has changed the shape of performance in many parts of the world and especially the United States, forcing the performing arts to figure out how to survive &emdash; creatively and financially &emdash; without physically-present audiences. This workshop will explore how we can create performance in an online format and will explore the vocabulary, technique, opportunities and challenges of interdisciplinary collaboration as an active creative process.
+Quarantine has changed the shape of performance in many parts of the world and especially the United States, forcing the performing arts to figure out how to survive &#x2013; creatively and financially &#x2013; without physically-present audiences. This workshop will explore how we can create performance in an online format and will explore the vocabulary, technique, opportunities and challenges of interdisciplinary collaboration as an active creative process.
 
 The specific focus and application during this intensive will be the question of how we relate to the world around us—as it represents itself in sensory and tactile form—through the virtual world of the internet. The hope is that new ideas and vocabulary will emerge from the engagement of artists in process-oriented disciplines rather than the goal of a finished product. The collaboratively intensive course will use both the iterative/prototyping methods of art and the rehearsal based narrative explorations of Drama in new experimental methods.
 
