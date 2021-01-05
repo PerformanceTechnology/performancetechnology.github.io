@@ -1,5 +1,7 @@
 ---
 layout: page
-title: "Day 02"
+title: "Day 2"
 permalink: /day02/
 ---
+
+Under Construction
