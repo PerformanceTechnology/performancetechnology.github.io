@@ -18,11 +18,19 @@ Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
 | DAY | TOPIC | Morning | Afternoon | Evening |
 | --- | --- | --- | --- | --- |
-| JAN 11 | Entering Theatre | Introductions; Theatre exercises | Playlets | Discussion |
+| JAN 11 | Entering Theatre | Introductions; Theatre exercises | Performance #1 Creation | Performance & Discussion |
 | JAN 12 | Audience Communication; Creating the Contract | An idea becomes real; group ideation | Present work in process to class | Discussion |
 | JAN 13 | Improvisation; Liveness; Performance | Incorporating Feedback | Present work to class | Discussion; Form new groups |
 | JAN 14 | Deconstruction &amp; Reconstruction | Letting go &amp; moving forward | Discussion; ideation | Production work |
 | JAN 15 | Online Performance | Production work | Open Studios | Wrap |
+
+### Recommended Process
+
+Split your time into thirds (rough; not enforced; adjust as necessary for longer projects):
+
+- **Ideation** &#x2013; What do you want to express and why? Note: this comes before form/technique/technology.
+- **Definition** &#x2013; What it is; form. Ensure form suits idea.
+- **Action** &#x2013; Make it; impact the world.
 
 ### Course Description
 
