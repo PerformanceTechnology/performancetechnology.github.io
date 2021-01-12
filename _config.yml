@@ -16,8 +16,9 @@ url: "https://performancetechnology.github.io" # the base hostname & protocol fo
 # class_slack:
 
 header_pages:
+  - resources.md
   - day01.md
-  # - day02.md
+  - day02.md
   # - day03.md
   # - day04.md
   # - day05.md
