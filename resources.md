@@ -6,9 +6,10 @@ permalink: /resources/
 
 ## Tools
 
-(These were gathered from conversations with students; suggest more!)
-
+(These were gathered from conversations with students; suggest more!)  
+[Mozilla Hubs](https://hubs.mozilla.com/){:target="\_blank"}  
 [Miro](https://miro.com/){:target="\_blank"}  
+[OBS](https://obsproject.com/){:target="\_blank"} &#x2013; software to capture/composite video sources such as cameras, applications, etc; can record, stream, or output the video as a virtual webcam for use in Zoom/Skype/etc.  
 [MURAL](https://www.mural.co/){:target="\_blank"}  
 [Gather](https://gather.town/){:target="\_blank"}  
 [Figma](https://www.figma.com/){:target="\_blank"}

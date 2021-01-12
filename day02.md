@@ -16,7 +16,7 @@ permalink: /day02/
 
 ### Performance Prompt
 
-Create a performance based on the phrase your group has been assigned. Consider deeply what is live vs what is recorded. You are allowed to use whatever tools or platforms you wish (both for collaboration/creation and for performance); just message Ethan and Jonathan with the link
+Create a performance based on the phrase your group has been assigned. Consider deeply what is live vs what is recorded. You are allowed to use whatever tools or platforms you wish (both for collaboration/creation and for performance); just message Ethan and Jonathan with the link.
 
 ### Groups
 
