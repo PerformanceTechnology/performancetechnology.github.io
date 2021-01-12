@@ -28,9 +28,9 @@ Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
 Split your time into thirds (rough; not enforced; adjust as necessary for longer projects):
 
-- **Ideation** &#x2013; What do you want to express and why? Note: this comes before form/technique/technology.
-- **Definition** &#x2013; What it is; form. Ensure form suits idea.
-- **Action** &#x2013; Make it; impact the world.
+- _Ideation_ &#x2013; What do you want to express and why? Note: this comes before form/technique/technology.
+- _Definition_ &#x2013; What it is; form. Ensure form suits idea.
+- _Action_ &#x2013; Make it; impact the world.
 
 ### Course Description
 
