@@ -22,6 +22,7 @@ header_pages:
   - day03.md
   - day04.md
   # - day05.md
+  - openworkshop.md
 
 # Build settings
 # markdown: kramdown
