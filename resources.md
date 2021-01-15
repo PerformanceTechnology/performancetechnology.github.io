@@ -20,7 +20,10 @@ permalink: /resources/
 
 ### Collaborative Audio
 
-jamulus jamkazam splice soundtrap
+- jamulus
+- jamkazam
+- splice
+- soundtrap
 
 ### Video Routing & mixing
 
