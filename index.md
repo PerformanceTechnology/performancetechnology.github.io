@@ -6,7 +6,9 @@ permalink: "/"
 
 **Performance & Technology**  
 _Parsons School of Design_  
-Spring 2021 Daily, January 11-15, 9AM-6PM EST  
+Summer 2021, June 1-12  
+Tues, Wed, Thurs, Fri 7:00pm - 9:40pm EST  
+Sat, Sun 9:00am - 3:00pm EST  
 **[Zoom Link](https://NewSchool.zoom.us/j/93521164740?pwd=YzlnTUdKdUY1TTVBai93SmgxR0FRZz09){:target="\_blank"}**
 
 ### Instructors

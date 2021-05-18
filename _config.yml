@@ -17,12 +17,12 @@ url: "https://performancetechnology.github.io" # the base hostname & protocol fo
 
 header_pages:
   - resources.md
-  - day01.md
-  - day02.md
-  - day03.md
-  - day04.md
-  # - day05.md
-  - openworkshop.md
+#  - day01.md
+#  - day02.md
+#  - day03.md
+#  - day04.md
+#  - day05.md
+#  - openworkshop.md
 
 # Build settings
 # markdown: kramdown
