@@ -16,15 +16,25 @@ Sat, Sun 9:00am - 3:00pm EST
 Ethan Silverman [(silvered@newschool.edu)](mailto:silvered@newschool.edu)  
 Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
-### Schedule
+<!---
+
+### Schedule (In Progress)
 
 | DAY | TOPIC | Morning | Afternoon | Evening |
 | --- | --- | --- | --- | --- |
-| JAN 11 | Entering Theatre | Introductions; Theatre exercises | Performance #1 Creation | Performance & Discussion |
-| JAN 12 | Audience Communication; Creating the Contract | An idea becomes real; group ideation | Present work in process to class | Discussion |
-| JAN 13 | Improvisation; Liveness; Performance | Incorporating Feedback | Present work to class | Discussion; Form new groups |
-| JAN 14 | Deconstruction &amp; Reconstruction | Letting go &amp; moving forward | Discussion; ideation | Production work |
-| JAN 15 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 1 | Entering Theatre | Introductions; Theatre exercises | Performance #1 Creation | Performance & Discussion |
+| JUN 2 | Audience Communication; Creating the Contract | An idea becomes real; group ideation | Present work in process to class | Discussion |
+| JUN 3 | Improvisation; Liveness; Performance | Incorporating Feedback | Present work to class | Discussion; Form new groups |
+| JUN 4 | Deconstruction &amp; Reconstruction | Letting go &amp; moving forward | Discussion; ideation | Production work |
+| JUN 5 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 6 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 8 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 9 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 10 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 11 | Online Performance | Production work | Open Studios | Wrap |
+| JUN 12 | Online Performance | Production work | Open Studios | Wrap |
+
+--->
 
 ### Recommended Process
 
