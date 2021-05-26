@@ -4,26 +4,29 @@ title: "Overview"
 permalink: "/"
 day1_class: "Introduction + syllabus: Instructors talk about goals of class, students introduce themselves, where they’re from, their own practice, and what they think “performance”. Theatre exercises. Performance 1 Assigned; break out into groups to work on project."
 day1_hw: "Consider ways to refine presentation."
-day2_class: "Meet with group to refine and rehearse presentations.<br/>Each performance/presentation discussed with entire class.  Each student writes a word or words to describe their own feelings about what they’ve seen and keeps it in their private notebook."
+day2_class: "Meet with group to refine and rehearse presentations.<br/>Each performance/presentation discussed with entire class.<br/>Each student writes a word or words to describe their own feelings about what they’ve seen and keeps it in their private notebook."
 day2_hw: ""
-day3_class: "Word game based on “reaction words.”  New groups assigned.  Ideation, Definition, Action process begins."
-day3_hw: "Precedents/Research  Look for projects(in any area) that have inspired you and might be helpful to share with your group."
-day4_class: ""
-day4_hw: ""
-day5_class: ""
-day5_hw: ""
-day6_class: ""
-day6_hw: ""
-day7_class: ""
-day7_hw: ""
-day8_class: ""
-day8_hw: ""
-day9_class: ""
-day9_hw: ""
-day10_class: ""
-day10_hw: ""
-day11_class: ""
-day11_hw: ""
+day3_class: "Word game based on “reaction words.”<br/>New groups assigned.<br/>Ideation, Definition, Action process begins."
+day3_hw: "Precedents/Research<br/>Look for projects(in any area) that have inspired you and might be helpful to share with your group."
+day4_class: "Focus on Definition first half.<br/>Focus on Action second half."
+day4_hw: "Precedents/Research"
+day5_class: "Continuation of Action<br/>Show work in process to whole class. Reactions to make sure Definition is being communicated clearly. General discussion of tools that can help piece."
+day5_hw: "Consider the feedback. What was helpful? What feedback subverts your intent? Take notes to share with your group."
+day6_class: "Work within each group continues taking on board the notes and suggestions of the whole class.<br/>Presentations of more fully realized pieces."
+day6_hw: "What did you learn about your creative process while in a group setting?"
+day7_class: "REFLECTION<br/>In what ways did you listen?<br/>What were moments where you thought you were listening but you were not?<br/>Which methods of reaching consensus worked?<br/>Which methods of reaching consensus failed?"
+day7_hw: "What knowledge, skills, etc do I bring to a new group of collaborators?<br/>What do I need to keep in mind while working in a group?"
+day8_class: "LISTENING The Collaborative Process.<br/>Week 2 is for self-directed, motivated learning. Each group takes on a life of its own using the methods and tools from the first week.
+"
+day8_hw: "As a group, give each member of the group an assignment"
+day9_class: "REACTING<br/>Group Ideation leads to Definition"
+day9_hw: "Each person needs to make something for Thursday – can be anything"
+day10_class: "COLLABORATING is Action.<br/>How do you bring your thoughts and feelings to a creative process that is not solely your own?"
+day10_hw: "Each member of the group must identify a major problem to be solved on Friday (could be technical, performance related, etc)."
+day11_class: "BUILDING as a team.<br/>What is the difference between a contribution and letting go? How does an artistic creative endeavor with disparate elements become a holistic experience?"
+day11_hw: "Keep building!"
+day12_class: "SHARING. Live Performance via Zoom<br/>Letting go and then taking in what the shared experience means in a creative project. How can I bring this experience into my own practice moving forward?"
+day12_hw: ":)"
 ---
 
 **Performance & Technology**  
@@ -48,11 +51,12 @@ Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 | JUN 4 | Improvisation; Liveness; Performance | {{page.day4_class}} | {{page.day4_hw}} |
 | JUN 5 | Improvisation; Liveness; Performance | {{page.day5_class}} | {{page.day5_hw}} |
 | JUN 6 | Improvisation; Liveness; Performance | {{page.day6_class}} | {{page.day6_hw}} |
-| JUN 8 | Deconstruction & Reconstruction; Online Performance | {{page.day7_class}} | {{page.day7_hw}} |
-| JUN 9 | Deconstruction & Reconstruction; Online Performance | {{page.day8_class}} | {{page.day8_hw}} |
-| JUN 10 | Deconstruction & Reconstruction; Online Performance | {{page.day9_class}} | {{page.day9_hw}} |
-| JUN 11 | Deconstruction & Reconstruction; Online Performance | {{page.day10_class}} | {{page.day10_hw}} |
-| JUN 12 | Open Studio | {{page.day11_class}} | {{page.day11_hw}} |
+| JUN 7 (no meeting) | Reflection | {{page.day7_class}} | {{page.day7_hw}} |
+| JUN 8 | Deconstruction & Reconstruction; Online Performance | {{page.day8_class}} | {{page.day8_hw}} |
+| JUN 9 | Deconstruction & Reconstruction; Online Performance | {{page.day9_class}} | {{page.day9_hw}} |
+| JUN 10 | Deconstruction & Reconstruction; Online Performance | {{page.day10_class}} | {{page.day10_hw}} |
+| JUN 11 | Deconstruction & Reconstruction; Online Performance | {{page.day11_class}} | {{page.day11_hw}} |
+| JUN 12 | Open Studio | {{page.day12_class}} | {{page.day12_hw}} |
 
 ### Recommended Process
 
