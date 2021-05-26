@@ -2,6 +2,28 @@
 layout: home
 title: "Overview"
 permalink: "/"
+day1_class: "Introduction + syllabus: Instructors talk about goals of class, students introduce themselves, where they’re from, their own practice, and what they think “performance”. Theatre exercises. Performance 1 Assigned; break out into groups to work on project."
+day1_hw: "Consider ways to refine presentation."
+day2_class: "Meet with group to refine and rehearse presentations.<br/>Each performance/presentation discussed with entire class.  Each student writes a word or words to describe their own feelings about what they’ve seen and keeps it in their private notebook."
+day2_hw: ""
+day3_class: "Word game based on “reaction words.”  New groups assigned.  Ideation, Definition, Action process begins."
+day3_hw: "Precedents/Research  Look for projects(in any area) that have inspired you and might be helpful to share with your group."
+day4_class: ""
+day4_hw: ""
+day5_class: ""
+day5_hw: ""
+day6_class: ""
+day6_hw: ""
+day7_class: ""
+day7_hw: ""
+day8_class: ""
+day8_hw: ""
+day9_class: ""
+day9_hw: ""
+day10_class: ""
+day10_hw: ""
+day11_class: ""
+day11_hw: ""
 ---
 
 **Performance & Technology**  
@@ -16,25 +38,21 @@ Sat, Sun 9:00am - 3:00pm EST
 Ethan Silverman [(silvered@newschool.edu)](mailto:silvered@newschool.edu)  
 Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
-<!---
-
 ### Schedule (In Progress)
 
-| DAY | TOPIC | Morning | Afternoon | Evening |
-| --- | --- | --- | --- | --- |
-| JUN 1 | Entering Theatre | Introductions; Theatre exercises | Performance #1 Creation | Performance & Discussion |
-| JUN 2 | Audience Communication; Creating the Contract | An idea becomes real; group ideation | Present work in process to class | Discussion |
-| JUN 3 | Improvisation; Liveness; Performance | Incorporating Feedback | Present work to class | Discussion; Form new groups |
-| JUN 4 | Deconstruction &amp; Reconstruction | Letting go &amp; moving forward | Discussion; ideation | Production work |
-| JUN 5 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 6 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 8 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 9 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 10 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 11 | Online Performance | Production work | Open Studios | Wrap |
-| JUN 12 | Online Performance | Production work | Open Studios | Wrap |
-
---->
+| DAY | TOPIC | CLASS | HOMEWORK |
+| --- | --- | --- | --- |
+| JUN 1 | Entering Theatre | {{page.day1_class}} | {{page.day1_hw}} |
+| JUN 2 | Audience Communication; Creating the Contract | {{page.day2_class}} | -- |
+| JUN 3 | Improvisation; Liveness; Performance | {{page.day3_class}} | {{page.day3_hw}} |
+| JUN 4 | Improvisation; Liveness; Performance | {{page.day4_class}} | {{page.day4_hw}} |
+| JUN 5 | Improvisation; Liveness; Performance | {{page.day5_class}} | {{page.day5_hw}} |
+| JUN 6 | Improvisation; Liveness; Performance | {{page.day6_class}} | {{page.day6_hw}} |
+| JUN 8 | Deconstruction & Reconstruction; Online Performance | {{page.day7_class}} | {{page.day7_hw}} |
+| JUN 9 | Deconstruction & Reconstruction; Online Performance | {{page.day8_class}} | {{page.day8_hw}} |
+| JUN 10 | Deconstruction & Reconstruction; Online Performance | {{page.day9_class}} | {{page.day9_hw}} |
+| JUN 11 | Deconstruction & Reconstruction; Online Performance | {{page.day10_class}} | {{page.day10_hw}} |
+| JUN 12 | Open Studio | {{page.day11_class}} | {{page.day11_hw}} |
 
 ### Recommended Process
 
