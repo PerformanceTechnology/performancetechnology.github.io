@@ -17,7 +17,7 @@ url: "https://performancetechnology.github.io" # the base hostname & protocol fo
 
 header_pages:
   - resources.md
-#  - day01.md
+  - project1.md
 #  - day02.md
 #  - day03.md
 #  - day04.md
