@@ -13,7 +13,7 @@ Create a performance based on the phrase your group has been assigned. Consider 
 ### Groups
 
 **Group 1**  
-_Timeless, emotional, bionic, sponge_  
+_Timeless, emotional, bionic, sponge…_  
 Marion  
 Han Zhang  
 Jiyuan Zhan  
