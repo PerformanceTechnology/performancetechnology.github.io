@@ -29,9 +29,9 @@ permalink: /resources/
 ### Video Routing & mixing
 
 - [OBS](https://obsproject.com/) &#x2013; software to capture/composite/mix video sources such as cameras, applications, etc; can record, stream, or output the video as a virtual webcam for use in Zoom/Skype/etc.
-- [syphon] (http://syphon.v002.info/)
-- [spout] (https://spout.zeal.co/)
-- [NDI] (https://www.ndi.tv/)
+- [syphon](http://syphon.v002.info/)
+- [spout](https://spout.zeal.co/)
+- [NDI](https://www.ndi.tv/)
 - [yellowduck](https://test) pair with OBS to broadcast to Instagram Live
 
 ### Audio Editing & Routing
