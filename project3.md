@@ -12,8 +12,7 @@ Consider the phrase your group has been assigned. Remember the notes you had reg
 
 #### Group 1
 
-_Timeless, emotional, bionic, sponge_
-
+_Timeless, emotional, bionic, sponge_  
 Kimberly Lara  
 Soomin Lee
 
