@@ -43,20 +43,13 @@ Jonathan Beilin [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
 
 ### Schedule (In Progress)
 
-| DAY | TOPIC | CLASS | HOMEWORK |
-| --- | --- | --- | --- |
-| JUN 1 | Entering Theatre | {{page.day1_class}} | {{page.day1_hw}} |
-| JUN 2 | Audience Communication; Creating the Contract | {{page.day2_class}} | -- |
-| JUN 3 | Improvisation; Liveness; Performance | {{page.day3_class}} | {{page.day3_hw}} |
-| JUN 4 | Improvisation; Liveness; Performance | {{page.day4_class}} | {{page.day4_hw}} |
-| JUN 5 | Improvisation; Liveness; Performance | {{page.day5_class}} | {{page.day5_hw}} |
-| JUN 6 | Improvisation; Liveness; Performance | {{page.day6_class}} | {{page.day6_hw}} |
-| JUN 7 (no meeting) | Reflection | {{page.day7_class}} | {{page.day7_hw}} |
-| JUN 8 | Deconstruction & Reconstruction; Online Performance | {{page.day8_class}} | {{page.day8_hw}} |
-| JUN 9 | Deconstruction & Reconstruction; Online Performance | {{page.day9_class}} | {{page.day9_hw}} |
-| JUN 10 | Deconstruction & Reconstruction; Online Performance | {{page.day10_class}} | {{page.day10_hw}} |
-| JUN 11 | Deconstruction & Reconstruction; Online Performance | {{page.day11_class}} | {{page.day11_hw}} |
-| JUN 12 | Open Studio | {{page.day12_class}} | {{page.day12_hw}} |
+| DAY | TOPIC | Morning | Afternoon | Evening |
+| --- | --- | --- | --- | --- |
+| JAN 10 | Entering Theatre | Introductions; Theatre exercises | Performance #1 Creation | Performance & Discussion |
+| JAN 11 | Audience Communication; Creating the Contract | An idea becomes real; group ideation | Present work in process to class | Discussion |
+| JAN 12 | Improvisation; Liveness; Performance | Incorporating Feedback | Present work to class | Discussion; Form new groups |
+| JAN 13 | Deconstruction &amp; Reconstruction | Letting go &amp; moving forward | Discussion; ideation | Production work |
+| JAN 14 | Online Performance | Production work | Open Studios | Wrap |
 
 ### Recommended Process
 

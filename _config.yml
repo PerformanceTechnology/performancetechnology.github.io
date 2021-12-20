@@ -6,7 +6,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Performance + Technology 2021"
+title: "Performance + Technology 2022"
 email: your-email@example.com
 description: "Site for Parsons Performance + Technology Studio 2021. Includes syllabus, outlines for exercises and meetings each day, and crucial links."
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,8 +18,8 @@ url: "https://performancetechnology.github.io" # the base hostname & protocol fo
 header_pages:
   - resources.md
   - project1.md
-  - project2.md
-  - project3.md
+  # - project2.md
+  # - project3.md
 #  - day02.md
 #  - day03.md
 #  - day04.md
