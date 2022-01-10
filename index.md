@@ -33,6 +33,9 @@ day12_hw: ":)"
 _Parsons School of Design_  
 Winter 2022, January 10-14, 10am - 6pm EST 
 **[Zoom Link](https://NewSchool.zoom.us/j/96075561465?pwd=M2EvTUova3lla25ZL2xmNXZXdENjdz09){:target="\_blank"}**
+**[Discord Link](https://discord.gg/UbMqNQTb){:target="\_blank"}**
+
+
 
 ### Instructors
 
