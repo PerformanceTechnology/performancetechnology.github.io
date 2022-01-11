@@ -19,25 +19,25 @@ Create a performance based on the phrase your group has been assigned. Consider 
 
 ### Groups
 
-**Group 1	- Fancy failure to fresh freedom**
+**Group 1	- Fancy failure to fresh freedom**  
 Sean	
 Whitt	
 Morgane	
 Dry	
 	
-**Group 2	Highly Driven Community Free of Expectation**
+**Group 2	Highly Driven Community Free of Expectation**  
 Kingsley	
 Skyla	
 Beatriz	
 Wafi	
 	
-**Group 3	Colorful snowy as interactive heaven**
+**Group 3	Colorful snowy as interactive heaven**  
 Audrey	
 Joy	
 Peilin	
 Nicky	
 	
-**Group 4	peaceful interaction with fluid emotions**
+**Group 4	peaceful interaction with fluid emotions**  
 Vicky	
 Leah	
 Pepper	
