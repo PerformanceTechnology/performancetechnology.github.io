@@ -7,11 +7,13 @@ permalink: /performance02/
 
 ### Schedule
 
-| Time | Format   | Activity                    |
-| ---- | -------- | --------------------------- |
-| 1000 | Full     | Word Exercise, etc          |
-| 1100 | Breakout | Begin work on Performance 2 |
-| 1630 | Full     | Check-in                     |
+| Time | Format   | Activity                            |
+| ---- | -------- | ----------------------------------- |
+| 1000 | Full     | Word Exercise, etc                  |
+| 1100 | Breakout | Begin work on Performance 2         |
+| 1200 | Breakout | Ethan checks in with groups         |
+| 1400 | Breakout | Jon checks in with groups           |
+| 1630 | Full     | Group work-in-progress and feedback |
 
 ### Performance Prompt
 
