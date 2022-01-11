@@ -6,6 +6,7 @@ permalink: /performance02/
 
 
 ### Schedule
+
 | Time | Format   | Activity                    |
 | ---- | -------- | --------------------------- |
 | 0900 | Full     | Word Exercise, etc          |
