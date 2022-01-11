@@ -9,7 +9,7 @@ permalink: /performance02/
 
 | Time | Format   | Activity                    |
 | ---- | -------- | --------------------------- |
-| 0900 | Full     | Word Exercise, etc          |
+| 1000 | Full     | Word Exercise, etc          |
 | 1100 | Breakout | Begin work on Performance 2 |
 | 1750 | Full     | Wrap-up                     |
 
