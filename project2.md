@@ -11,7 +11,7 @@ permalink: /performance02/
 | ---- | -------- | --------------------------- |
 | 1000 | Full     | Word Exercise, etc          |
 | 1100 | Breakout | Begin work on Performance 2 |
-| 1750 | Full     | Wrap-up                     |
+| 1630 | Full     | Check-in                     |
 
 ### Performance Prompt
 
