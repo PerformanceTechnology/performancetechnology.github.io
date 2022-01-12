@@ -9,17 +9,14 @@
 title: "Performance + Technology 2022"
 email: your-email@example.com
 description: "Site for Parsons Performance + Technology Studio 2021. Includes syllabus, outlines for exercises and meetings each day, and crucial links."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://performancetechnology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username: performancetechnology
-# class_zoom: https://NewSchool.zoom.us/j/93521164740?pwd=YzlnTUdKdUY1TTVBai93SmgxR0FRZz09
-# class_slack:
+baseurl: ""
+url: "https://performancetechnology.github.io"
 
 header_pages:
   - resources.md
   - project1.md
   - project2.md
-  # - project3.md
+  - project3.md
 #  - day02.md
 #  - day03.md
 #  - day04.md
